@@ -1,0 +1,27 @@
+{
+  "name": "whrlivetask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/im-kapil/WHR_live_task_smart_contracts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/im-kapil/WHR_live_task_smart_contracts/issues"
+  },
+  "homepage": "https://github.com/im-kapil/WHR_live_task_smart_contracts#readme",
+  "devDependencies": {
+    "hardhat": "^2.13.0"
+  },
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "@openzeppelin/contracts": "^4.8.2"
+  }
+}
